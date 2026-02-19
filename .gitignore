@@ -34,3 +34,6 @@ pwd.txt
 .env 
 pwd.txt 
 .env 
+.env 
+node_modules 
+.vercel 
