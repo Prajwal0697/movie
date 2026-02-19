@@ -1,0 +1,76 @@
+.admin-container {
+  padding-top: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+}
+
+.admin-title {
+  font-size: 32px;
+  margin-bottom: 30px;
+  color: #e50914;
+}
+
+.users-section {
+  background-color: #111;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.users-section h2 {
+  margin-bottom: 20px;
+  font-size: 20px;
+  color: #fff;
+}
+
+.users-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #222;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.users-table thead {
+  background-color: #e50914;
+}
+
+.users-table th {
+  padding: 12px;
+  text-align: left;
+  font-weight: 600;
+  color: white;
+}
+
+.users-table td {
+  padding: 12px;
+  border-bottom: 1px solid #333;
+  color: #ccc;
+}
+
+.users-table tbody tr:hover {
+  background-color: #333;
+}
+
+.users-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.error-message {
+  background-color: #c0392b;
+  color: white;
+  padding: 12px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.loading {
+  text-align: center;
+  padding: 50px;
+  font-size: 18px;
+  color: #ccc;
+}

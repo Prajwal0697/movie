@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+
+.app {
+  background-color: #111;
+}
+
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-size: 24px;
+  color: #fff;
+  background-color: #111;
+}
