@@ -37,3 +37,4 @@ pwd.txt
 .env 
 node_modules 
 .vercel 
+.vercel
