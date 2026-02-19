@@ -32,3 +32,5 @@ server/.env
 .env*.local
 pwd.txt 
 .env 
+pwd.txt 
+.env 
